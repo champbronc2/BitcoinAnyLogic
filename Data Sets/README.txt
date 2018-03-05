@@ -1,0 +1,1 @@
+This folder contains the datasets that were used in the Bitcoin and Healthcare simulations, including datasets produced as results from simulation, and datasets used to develop regressions or forecasts.
