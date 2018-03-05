@@ -1,0 +1,1 @@
+To run, open the .alp file in AnyLogic compatible software.
